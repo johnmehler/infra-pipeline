@@ -7,4 +7,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     print('Code within Docker Container launched successfully on Google Compute Engine')
-    print('MY PARAMETER: ', args.my_parameter)
+    print('MY PAROMETER: ', args.my_parameter)
